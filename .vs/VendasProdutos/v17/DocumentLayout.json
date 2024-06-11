@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\ASP MVC\\VendasProdutos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\data\\vendasprodutoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\data\\vendasprodutoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +23,8 @@
       "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|d:\\asp mvc\\vendasprodutos\\vendasprodutos\\migrations\\20240603223209_vendaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6056B5F-ED13-482E-8CDC-7AE4E6D6F651}|VendasProdutos\\VendasProdutos.csproj|solutionrelative:vendasprodutos\\migrations\\20240603223209_vendaprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,95 +34,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Views\\Vendas\\Index.cshtml",
-              "RelativeDocumentMoniker": "VendasProdutos\\Views\\Vendas\\Index.cshtml",
-              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Views\\Vendas\\Index.cshtml",
-              "RelativeToolTip": "VendasProdutos\\Views\\Vendas\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T00:02:00.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Views\\Vendas\\Create.cshtml",
-              "RelativeDocumentMoniker": "VendasProdutos\\Views\\Vendas\\Create.cshtml",
-              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Views\\Vendas\\Create.cshtml",
-              "RelativeToolTip": "VendasProdutos\\Views\\Vendas\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T22:59:55.452Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VendasController.cs",
-              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Controllers\\VendasController.cs",
-              "RelativeDocumentMoniker": "VendasProdutos\\Controllers\\VendasController.cs",
-              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Controllers\\VendasController.cs",
-              "RelativeToolTip": "VendasProdutos\\Controllers\\VendasController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwEkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:38:37.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Venda.cs",
               "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Models\\Venda.cs",
               "RelativeDocumentMoniker": "VendasProdutos\\Models\\Venda.cs",
               "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Models\\Venda.cs",
               "RelativeToolTip": "VendasProdutos\\Models\\Venda.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:35:02.224Z",
+              "WhenOpened": "2024-06-11T00:41:51.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240603223209_VendaProdutos.cs",
-              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Migrations\\20240603223209_VendaProdutos.cs",
-              "RelativeDocumentMoniker": "VendasProdutos\\Migrations\\20240603223209_VendaProdutos.cs",
-              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Migrations\\20240603223209_VendaProdutos.cs",
-              "RelativeToolTip": "VendasProdutos\\Migrations\\20240603223209_VendaProdutos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:32:09.35Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\appsettings.json",
               "RelativeDocumentMoniker": "VendasProdutos\\appsettings.json",
               "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\appsettings.json",
               "RelativeToolTip": "VendasProdutos\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-03T22:31:05.05Z"
+              "WhenOpened": "2024-06-11T00:31:13.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "VendasProdutos\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "VendasProdutos\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T22:28:51.455Z"
+              "DocumentIndex": 1,
+              "Title": "VendasProdutosContext.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Data\\VendasProdutosContext.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Data\\VendasProdutosContext.cs",
+              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Data\\VendasProdutosContext.cs",
+              "RelativeToolTip": "VendasProdutos\\Data\\VendasProdutosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:59:59.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Controllers\\VendasController.cs",
+              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "VendasProdutos\\Controllers\\VendasController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:51:30.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,21 +96,22 @@
               "RelativeDocumentMoniker": "VendasProdutos\\Controllers\\ProdutosController.cs",
               "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "VendasProdutos\\Controllers\\ProdutosController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:27:29.573Z"
+              "WhenOpened": "2024-06-10T22:49:50.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "VendasProdutos\\Models\\Produto.cs",
-              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Models\\Produto.cs",
-              "RelativeToolTip": "VendasProdutos\\Models\\Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "VendasProdutos\\Program.cs",
+              "ToolTip": "D:\\ASP MVC\\VendasProdutos\\VendasProdutos\\Program.cs",
+              "RelativeToolTip": "VendasProdutos\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:19:26.911Z",
+              "WhenOpened": "2024-06-10T22:47:21.7Z",
               "EditorCaption": ""
             }
           ]

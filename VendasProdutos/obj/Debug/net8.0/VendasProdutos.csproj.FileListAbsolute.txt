@@ -250,3 +250,11 @@ D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\runtimes\win\lib\net7.
 D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\ASP MVC\VendasProdutos\VendasProdutos\obj\Debug\net8.0\VendasProdutos.csproj.AssemblyReference.cache
 D:\ASP MVC\VendasProdutos\VendasProdutos\obj\Debug\net8.0\VendasPr.B0C1A5DC.Up2Date
+D:\ASP MVC\VendasProdutos\VendasProdutos\obj\Debug\net8.0\VendasProdutos.sourcelink.json
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ASP MVC\VendasProdutos\VendasProdutos\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

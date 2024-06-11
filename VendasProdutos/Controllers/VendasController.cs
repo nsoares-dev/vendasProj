@@ -74,7 +74,7 @@ namespace VendasProdutos.Controllers
                 }
 
             }
-            ViewData["ProdutoId"] = new SelectList(_context.Produto, "ProdutoId", "ProdutoId", venda.ProdutoId);
+            ViewData["ProdutoId"] = new SelectList(_context.Produto, "ProdutoId", "NomeProduto", venda.ProdutoId);
             return View(venda);
         }
 
